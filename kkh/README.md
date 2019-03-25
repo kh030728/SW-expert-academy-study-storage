@@ -1,5 +1,5 @@
-# »ï¼º SW Expert - SW Expert Academy
-[»ï¼º SW Expert](https://www.swexpertacademy.com)
+# Samsung SW Expert - SW Expert Academy
+[Samsung SW Expert](https://www.swexpertacademy.com)
 -------------------------------------------
 ## D1
 
