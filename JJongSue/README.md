@@ -6,7 +6,7 @@
 
 -------------------------------------------
 ## D2
-- [SWEA 1926 간단한 369게임](https://github.com/JJongSue/AlgorithmStudy/tree/master/Problems/43104)
+- [SWEA 1926 간단한 369게임](https://github.com/kh030728/SW-expert-academy-study-storage/tree/master/JJongSue/1926)
 -------------------------------------------
 ## D3
 
