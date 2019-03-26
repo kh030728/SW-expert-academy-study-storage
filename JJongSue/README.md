@@ -11,7 +11,7 @@
 
 -------------------------------------------
 ## D3
-
+- [SWEA 7193 승현이의 수학공부](https://github.com/kh030728/SW-expert-academy-study-storage/tree/master/JJongSue/7193)
 
 -------------------------------------------
 ## Level 4
