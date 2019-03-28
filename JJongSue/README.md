@@ -2,6 +2,7 @@
 [삼성 SW Expert](https://www.swexpertacademy.com)
 -------------------------------------------
 ## D1
+- [SWEA 2071 평균값 구하기](https://github.com/kh030728/SW-expert-academy-study-storage/tree/master/JJongSue/2071)
 - [SWEA 2072 홀수만 더하기](https://github.com/kh030728/SW-expert-academy-study-storage/tree/master/JJongSue/2072)
 
 -------------------------------------------
