@@ -6,7 +6,7 @@
 
 -------------------------------------------
 ## D2
-
+[1983](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kkh/1983/README.md)
 
 -------------------------------------------
 ## D3
