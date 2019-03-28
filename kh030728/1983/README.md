@@ -3,7 +3,7 @@
 -------------------------------------------
 [1983 - 조교의 성적 매기기 - 삼성 문제 링크](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PwGK6AcIDFAUq&categoryId=AV5PwGK6AcIDFAUq&categoryType=CODE)
 -------------------------------------------
-[코드 링크](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kkh/kh030728/1983.java)
+[코드 링크](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kh030728/1983/1983.java)
 -------------------------------------------
 # 풀이 방법
 -------------------------------------------
