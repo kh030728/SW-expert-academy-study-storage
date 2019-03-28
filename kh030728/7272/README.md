@@ -3,7 +3,7 @@
 -------------------------------------------
 [7272 - 안경이 없어 - 삼성 문제 링크](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWl0ZQ8qn7UDFAXz&categoryId=AWl0ZQ8qn7UDFAXz&categoryType=CODE)
 -------------------------------------------
-[코드 링크](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kkh/7272/7272.java)
+[코드 링크](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kh030728/7272/7272.java)
 -------------------------------------------
 # 풀이 방법
 -------------------------------------------
