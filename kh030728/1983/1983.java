@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import java.util.Collections;
 import java.util.ArrayList;
+
 public class Solution {
  	public static void main (String[] args) {
     	Scanner scanner = new Scanner(System.in);
@@ -24,7 +25,7 @@ public class Solution {
             Collections.sort(grade);
             Collections.reverse(grade);
             int a = grade.indexOf(targetGrade)+1;//등수를 이용하는 것이기 때문에 0부터가아니라 1부터 시작하도록 해준다.
-            //다르게 표현하는 방법이 없을까??
+
             if(totalNum/10>=a) {
                 System.out.println("A+");
             } else if(totalNum*2/10>=a) {

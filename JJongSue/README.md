@@ -13,9 +13,11 @@
 -------------------------------------------
 ## D3
 - [SWEA 7193 승현이의 수학공부](https://github.com/kh030728/SW-expert-academy-study-storage/tree/master/JJongSue/7193)
+- [SWEA 1206 [S/W 문제해결 기본] 1일차 - View](https://github.com/kh030728/SW-expert-academy-study-storage/tree/master/JJongSue/1206)
 
 -------------------------------------------
 ## Level 4
 
 -------------------------------------------
-## Level 5]
+## 
+- [SWEA 1949 등산로 조정](https://github.com/kh030728/SW-expert-academy-study-storage/tree/master/JJongSue/1949)
