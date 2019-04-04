@@ -3,7 +3,7 @@
 -------------------------------------------
 [6109 - 추억의 2048게임 - 삼성 문제 링크](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWbrg9uabZsDFAWQ&categoryId=AWbrg9uabZsDFAWQ&categoryType=CODE)
 -------------------------------------------
-[코드 링크](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kh030728/6109/6108.cpp)
+[코드 링크](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kh030728/6109/6109.cpp)
 -------------------------------------------
 # 풀이 방법
 -------------------------------------------
