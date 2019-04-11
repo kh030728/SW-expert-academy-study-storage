@@ -11,3 +11,5 @@
 [4613 - 러시아 국기 같은 깃발](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kh030728/4613/README.md)
 
 [1226 - [S/W 문제해결 기본] 7일차 - 미로1](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kh030728/1226/README.md)
+
+[1210 - [S/W 문제해결 기본] 2일차 - Ladder1](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kh030728/1210/README.md)
