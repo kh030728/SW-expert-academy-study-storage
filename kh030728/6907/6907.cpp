@@ -13,6 +13,7 @@ string SuffixUnit="";
 
 void print(string s, int SUF, int PP)
 {
+    // 단위에 맞게 승수를 조정한다.
     if(SUF == SUF_YOCTO) PP -= 24; else if(SUF == SUF_ZEPTO) PP -=21; else if(SUF == SUF_ATO) PP -=18;
         else if(SUF == SUF_FEMTO) PP -=15; else if(SUF == SUF_PICO) PP -=12; else if(SUF == SUF_NANO) PP -=9;
         else if(SUF == SUF_MICRO) PP -=6; else if(SUF == SUF_MILLI) PP -=3; else if(SUF == SUF_CENTI) PP -=2;
@@ -20,9 +21,12 @@ void print(string s, int SUF, int PP)
         else if(SUF == SUF_KILO) PP +=3; else if(SUF == SUF_MEGA) PP +=6; else if(SUF == SUF_GIGA) PP +=9;
         else if(SUF == SUF_TERA) PP +=12; else if(SUF == SUF_PETA) PP +=15; else if(SUF == SUF_EXA) PP +=18;
         else if(SUF == SUF_ZETTA) PP +=21; else if(SUF == SUF_YOTTA) PP +=24; else if(SUF == SUF_NON) PP +=0;
-        cout << s << " * 10^" << PP <<" " << SuffixUnit << endl;
+    
+    //출력
+    cout << s << " * 10^" << PP <<" " << SuffixUnit << endl;
 }
 
+//재귀 함수이고 문제가 있는 경우 조정해준다.
 void exec(string _num, int SUF, int Pp = 0)
 {
     int PP = Pp;
@@ -73,7 +77,7 @@ void exec(string _num, int SUF, int Pp = 0)
 }
 
 
-
+// 입력을 읽어 오는데 하자가 없도록 한다.
 int ReadInput()
 {
     int SUF = SUF_NON;
