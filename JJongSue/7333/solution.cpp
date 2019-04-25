@@ -1,5 +1,6 @@
 #include <iostream>
 #include <algorithm>
+#include <vector>
 #include <deque>
 using namespace std;
 
@@ -12,43 +13,40 @@ int main(void)
         int N = 0;
         int answer = 0;
         cin >> N;
-        deque<int> box;
+        vector<int> box;
+        deque<int> box2;
         int tmp;
         for (int j = 0; j < N; j++)
         {
             cin >> tmp;
             if (tmp >= 50)
                 answer++;
-            else
-                box.push_back(tmp);
+            else{
+                box.push_back(tmp); box2.push_back(tmp);}
         }
-        sort(box.begin(), box.end());
-        while (!box.empty())
+        if (!box.empty())
         {
-            /*
-            if (box.back() >= 50)
+            sort(box.begin(), box.end());
+            int sum=box2.back();
+            while(!box.empty())
             {
-                box.pop_back();
-                answer++;
-            }*/
 
-            int weight = 50 / box.back();
-            if (50 % box.back() == 0)
-                weight -= -1;
-            //cout << box.back();
-            box.pop_back();
-            //cout << "box pop back()" << endl;
-            for (int k = 0; k < weight; k++)
+            }
+            int idx = box.size()-1;
+            int t = box[idx];
+            int sum = t;
+            for (int j = 0; j < idx; j++)
             {
-                if (!box.empty())
+                sum += t;
+                if (sum >= 50)
                 {
-                    //cout << box.front();
-                    box.pop_front();
-                    //cout << "box pop front" << endl;
+                    t = box[--idx];
+                    sum = t;
+                    answer++;
                 }
             }
-            answer++;
         }
+
         cout << "#" << i + 1 << " " << answer << endl;
     }
     return 0;
