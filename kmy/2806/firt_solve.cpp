@@ -50,7 +50,6 @@ int main()
 		vector<bool> tmp(N, false);
 		vector<vector<bool>> chess(N, tmp);
 		cnt = 0;
-		int aa = 0;
 		for (int i = 0; i < N; i++) {
 			vector<vector<bool>> tmp = chess;
 			tmp[0][i] = true;
