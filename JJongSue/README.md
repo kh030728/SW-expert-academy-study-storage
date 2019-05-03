@@ -20,5 +20,11 @@
 - [SWEA 7465 창용 마을 무리의 개수](https://github.com/kh030728/SW-expert-academy-study-storage/tree/master/JJongSue/7465)
 - [SWEA 7333 한솔이의 택배 아르바이트](https://github.com/kh030728/SW-expert-academy-study-storage/tree/master/JJongSue/7333)
 -------------------------------------------
+
+-------------------------------------------
+## D5
+- [SWEA 7508 화물을 옮기는 자](https://github.com/kh030728/SW-expert-academy-study-storage/tree/master/JJongSue/7508)
+
+
 ## 
 - [SWEA 1949 등산로 조정](https://github.com/kh030728/SW-expert-academy-study-storage/tree/master/JJongSue/1949)
