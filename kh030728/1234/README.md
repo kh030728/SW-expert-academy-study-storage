@@ -1,7 +1,7 @@
 # Samsung SW Expert - SW Expert Academy
 [Samsung SW Expert](https://www.swexpertacademy.com)
 -------------------------------------------
-[1256 - [S/W 문제해결 응용] 10일차 - 비밀번호](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14_DEKAJcCFAYD&categoryId=AV14_DEKAJcCFAYD&categoryType=CODE)
+[1234 - [S/W 문제해결 응용] 10일차 - 비밀번호](https://www.swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14_DEKAJcCFAYD&categoryId=AV14_DEKAJcCFAYD&categoryType=CODE)
 -------------------------------------------
 [코드 링크](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kh030728/1234/1234.cpp)
 -------------------------------------------
