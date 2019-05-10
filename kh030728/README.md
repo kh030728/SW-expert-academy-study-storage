@@ -7,6 +7,8 @@
 [7272 - 안경이 없어!](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kh030728/7272/README.md)
 
 [1209 - [S/W 문제해결 기본] 2일차 - Sum](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kh030728/1209/README.md)
+
+[1234 - [S/W 문제해결 기본] 10일차 - 비밀번호](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kh030728/1234/README.md)
 ## D4
 [6109 - 추억의 2048게임](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kh030728/6109/README.md)
 
