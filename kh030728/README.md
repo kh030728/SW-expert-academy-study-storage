@@ -19,6 +19,8 @@
 [1210 - [S/W 문제해결 기본] 2일차 - Ladder1](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kh030728/1210/README.md)
 
 [6907 - 단위 변환기 프로그램](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kh030728/6907/README.md)
+
+[1249 - [S/W 문제해결 기본] 4일차 - 보급로](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kh030728/1249/README.md)
 ## D5
 [6782 - 현주의 제곱근 놀이](https://github.com/kh030728/SW-expert-academy-study-storage/tree/master/kh030728/6782/README.md)
 
