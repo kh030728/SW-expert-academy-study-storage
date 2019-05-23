@@ -24,6 +24,8 @@
 [1249 - [S/W 문제해결 기본] 4일차 - 보급로](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kh030728/1249/README.md)
 
 [1231 - [S/W 문제해결 기본] 9일차 - 중위순회](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kh030728/1234/README.md)
+
+[1233 - [S/W 문제해결 기본] 9일차 - 사칙연산 유효성 검사](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kh030728/1233/README.md)
 ## D5
 [6782 - 현주의 제곱근 놀이](https://github.com/kh030728/SW-expert-academy-study-storage/tree/master/kh030728/6782/README.md)
 
