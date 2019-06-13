@@ -15,7 +15,7 @@ int check(int index)
         if((index*2)+1 <=200)// 자식 노드가 존재할 수 있는 숫자 
         {
             if(array[index*2] == 0 && array[(index*2)+1] == 0) // 숫자에게 자식이 없는 경우
-                return 1;
+            return 1;
             return 0; // 자식이 있는 경우
         }
         return 1; // 자식노드가 존재할 수 없는 숫자의 경우
