@@ -34,6 +34,6 @@
 [1256 - [S/W 문제해결 응용] 6일차 - K번째 접미어](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kh030728/1256/README.md)
 
 # BAEKJOON Online Judge
-[Samsung SW Expert Homapage](https://www.acmicpc.net/)
+[BAEKJOON](https://www.acmicpc.net/)
 -------------------------------------------
 [10828 - 스택](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kh030728/10828/README.md)
