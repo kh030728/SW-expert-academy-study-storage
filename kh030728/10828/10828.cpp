@@ -1,43 +1,62 @@
 #include <iostream>
 using namespace std;
+class node
+{
+    public:
+    node *prev = NULL;
+    int data = 0;
+};
 class stack
 {
-    int st[100000];
-    int size = -1;
+    node *top = NULL;
+    int size = 0;
     public:
     void push(int elem)
     {
         size++;
-        st[size] = elem;
+        if(top == NULL)
+        {
+            top = (node*)malloc(sizeof(node));
+            top->data = elem;
+        }
+        else
+        {
+            node *tmp = (node*)malloc(sizeof(node));
+            tmp->data = elem;
+            tmp->prev = top;
+            top = tmp;
+        }
     }
     void pop()
     {
-        if(size > -1)
+        if(size > 0)
         {
-            cout << st[size]<< endl;
-            st[size] = 0;
             size--;
+            cout << top->data << endl;
+            node *tmp = top;
+            top = top->prev;
+            //free(tmp);
         }
         else
             cout << "-1" << endl;
     }
-    void top()
+    void Top()
     {
-        if(size > -1)
-            cout << st[size] << endl;
+        if(size > 0)
+            cout << top->data << endl;
         else
             cout << "-1" << endl;
     }
     void Size()
     {
-        if(size > -1)
-            cout << size+1 << endl;
+        if(size > 0)
+            cout << size << endl;
         else
             cout << "0" << endl;
     }
     void empty()
     {
-        if(size > -1)
+        if(size > 0)
             cout << "0" << endl;
         else
             cout << "1" << endl;
@@ -61,7 +80,7 @@ int main(void)
         }
         else if(command == "top")
         {
-            stck.top();
+            stck.Top();
         }
         else if(command == "size")
         {
