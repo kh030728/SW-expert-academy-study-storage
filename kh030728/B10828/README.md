@@ -3,7 +3,7 @@
 -------------------------------------------
 [10828 - 스택](https://www.acmicpc.net/problem/10828)
 -------------------------------------------
-[코드보기](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kh030728/10828/10828.cpp)
+[코드보기](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kh030728/B10828/B10828.cpp)
 -------------------------------------------
 # 풀이방법
 -------------------------------------------

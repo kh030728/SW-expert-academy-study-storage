@@ -36,4 +36,4 @@
 # BAEKJOON Online Judge
 [BAEKJOON](https://www.acmicpc.net/)
 -------------------------------------------
-[10828 - 스택](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kh030728/10828/README.md)
+[10828 - 스택](https://github.com/kh030728/SW-expert-academy-study-storage/blob/master/kh030728/B10828/README.md)
