@@ -33,7 +33,7 @@ int main(void)
                     height_max = mount[j][k];
             }
         }
-        //max값 발견 시 dfs수행
+        //max값 발견 시 위,아래,좌,우 검색
         for (int j = 0; j < N; j++)
         {
             for (int k = 0; k < N; k++)
@@ -52,13 +52,17 @@ int main(void)
     }
     return 0;
 }
+
+
 int dfs(int y, int x, int height, int level, bool use_dig, vector<vector<bool>> &visted_mount1)
 {
 
+// x,y가 범위를 넘어갈 경우, 이미 방문했을 경우 0반환, 
     if (x > N - 1 || x < 0 || y > N - 1 || y < 0)
         return 0;
     if (visted_mount1[y][x])
         return 0;
+
 
     vector<vector<bool>> visted_mount2 = visted_mount1;
     visted_mount2[y][x] = true;

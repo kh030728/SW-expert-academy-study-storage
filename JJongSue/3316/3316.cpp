@@ -18,10 +18,11 @@ int main(void)
         printf("%d", 1<<count);
         for(int i=8;i<16;i++)
         {
+            printf("%d\n", i>>count);
             if((i>>count)&1 ==1 )
                 answer+=find(1,i);
         }
-        printf("#%d %d", test_i, answer);
+        printf("#%d %d\n", test_i, answer);
     }
 
 
