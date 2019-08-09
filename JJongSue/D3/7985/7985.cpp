@@ -1,6 +1,7 @@
 #include <iostream>
 #include <queue>
 #include <vector>
+vector<int> num;
 using namespace std;
 int main(void)
 {
@@ -12,6 +13,21 @@ int main(void)
         scanf("%d", &N);
         vector<queue<int>> vq(N, queue<int>());
         queue<int> last;
+        range=1;
+        for(int i=0;i<N;i++)
+            range*=2;
+        num.assign(range,0);
+        for(int i=0;i<range;i++)
+        {
+            scanf("%d", &num[i]);
+        }
+        for(int i=0;i<=N;i++)
+        {
+            for(int j=1;j<=(1<<i);j++)
+            {
+                
+            }
+        }
         
         for(int i=0;i<N;i++)
         {
@@ -50,4 +66,9 @@ int main(void)
         printf("\n");
     }   
     return 0;
+}
+void dfs(int first, int second)
+{
+    printf("%d", num[(first+second)/2]);
+    
 }
