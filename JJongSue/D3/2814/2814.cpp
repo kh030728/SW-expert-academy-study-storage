@@ -24,6 +24,7 @@ int main(void)
             printf("#%d 1\n", test_i);
             continue;
         }
+        int ans = 0;
         for (int i = 0; i < N; i++)
         {
             int cnt = 1;
@@ -37,12 +38,19 @@ int main(void)
                 savenum.pop();
                 for (int j = 0; j < N; j++)
                 {
-                    if (map[tmp][j])
+                    if (map[tmp][j] && is_visit[j]==false)
                     {
+                        savenum.push(j);
+                        is_visit[j]=true;
+                        cnt++;
                     }
                 }
+                if(ans < cnt) ans = cnt;
+                cnt--;
+                is_visit[tmp]=false;
             }
         }
+        printf("#%d %d\n", test_i, ans);
     }
     return 0;
 }
